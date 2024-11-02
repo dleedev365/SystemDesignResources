@@ -16,5 +16,10 @@
       <td><a href="https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction" target="_blank">website</a></td>
        <td>Nov 1, 2024</td>
     </tr>
+    <tr>
+      <td>Sytstem Design Primer</td>
+      <td><a href="https://github.com/donnemartin/system-design-primer" target="_blank">website</a></td>
+       <td>Nov 2, 2024</td>
+    </tr>
   </tbody>
 </table>
